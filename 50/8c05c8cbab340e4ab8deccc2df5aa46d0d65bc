@@ -1,0 +1,23 @@
+nginx.conf
+  s_6fb68c0e8e1c5b::t_0c222b70eec2fa 1-9
+.dockerignore
+  s_6fb68c0e8e1c5b::t_3437ab992936cf 1-4
+Dockerfile
+  s_6fb68c0e8e1c5b::t_de530a14caaafd 1-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.11",
+  "base_commit_sha": "508c05c8cbab340e4ab8deccc2df5aa46d0d65bc",
+  "prompts": {},
+  "sessions": {
+    "s_6fb68c0e8e1c5b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fffd1ec7-bca5-4fcd-84a9-2f3772a6de55",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Enes Poyraz <epoyraz.eth@googlemail.com>"
+    }
+  }
+}
