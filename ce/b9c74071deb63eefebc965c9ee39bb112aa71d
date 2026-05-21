@@ -1,0 +1,38 @@
+package.json
+  s_155fd952795a8b::t_a25f3b1a8ff42e 12,14,28
+src/app/globals.css
+  s_155fd952795a8b::t_c6c772eaf1d02a 4,18
+README.md
+  s_155fd952795a8b::t_c6c772eaf1d02a 1-5,18,20-22,24,26,28-30
+  s_155fd952795a8b::t_0983e63633a448 6
+src/lib/skill-extraction.ts
+  s_155fd952795a8b::t_c6c772eaf1d02a 1-319
+src/app/layout.tsx
+  s_155fd952795a8b::t_c6c772eaf1d02a 16-17
+next.config.ts
+  s_155fd952795a8b::t_c6c772eaf1d02a 4
+  s_155fd952795a8b::t_f65e544c14573a 5-7
+src/app/page.tsx
+  s_155fd952795a8b::t_22af9894f85493 1,4
+src/components/cv-skill-extractor.tsx
+  s_155fd952795a8b::t_d589595c8cadb4 182
+  s_155fd952795a8b::t_22af9894f85493 1-181,183-224
+src/components/extractor-loader.tsx
+  s_155fd952795a8b::t_22af9894f85493 1-30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.11",
+  "base_commit_sha": "ceb9c74071deb63eefebc965c9ee39bb112aa71d",
+  "prompts": {},
+  "sessions": {
+    "s_155fd952795a8b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e2737-6e94-73e3-b65a-657ee3f63230",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Enes Poyraz <epoyraz.eth@googlemail.com>"
+    }
+  }
+}
